@@ -126,8 +126,3 @@ print(histd1);
 
 // var prefire_ndwim = prefire_ndwi.mean();
 // var postfire_ndwim = postfire_ndwi.mean();
-
-
-
-
-
